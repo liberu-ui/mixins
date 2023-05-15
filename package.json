@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/mixins",
+  "name": "@liberu-ui/mixins",
   "version": "4.0.1",
   "description": "Enso mixins",
   "main": "index.js",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/enso-ui/mixins#readme",
   "dependencies": {
-    "@cgdsoftware/ui": "^6.0",
+    "@liberu-ui/ui": "^6.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@sentry/browser": "^6.9.0",
