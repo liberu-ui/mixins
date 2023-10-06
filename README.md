@@ -1,10 +1,10 @@
 # Mixins
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/mixins.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/mixins.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/mixins.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/mixins.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/mixins.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/mixins.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/mixins.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/mixins.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/mixins.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/mixins.svg)
 
 Liberu Mixins Package
 

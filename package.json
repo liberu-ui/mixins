@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/mixins.git"
+    "url": "git+https://github.com/liberu-ui/mixins.git"
   },
   "keywords": [
     "mixins",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/mixins/issues"
+    "url": "https://github.com/liberu-ui/mixins/issues"
   },
-  "homepage": "https://github.com/enso-ui/mixins#readme",
+  "homepage": "https://github.com/liberu-ui/mixins#readme",
   "dependencies": {
     "@liberu-ui/ui": "^6.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
